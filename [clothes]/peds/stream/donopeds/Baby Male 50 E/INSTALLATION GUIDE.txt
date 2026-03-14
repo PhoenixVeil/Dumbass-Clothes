@@ -1,0 +1,8 @@
+Installation Guide :- 
+       1] After Buying the model, you have to download it from the link shared with you
+      2.] Install AddonPeds Mods From https://www.gta5-mods.com/scripts/addonpeds-asi-pedselector
+ 3] Add all the main files in :- [use Open IV]
+         mods\update\x64\dlcpacks\addonpeds\dlc.rpf\peds.rpf\
+4}Run AddonPedsEditor.exe as admin and add ped to the list. Add same name written on main files. 
+
+Start your game and enjoy!
