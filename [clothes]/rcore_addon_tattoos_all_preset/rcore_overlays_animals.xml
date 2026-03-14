@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PedDecorationCollection>
+	<bRequiredForSync value="true"/>
+	<presets>
+		<Item>
+			<uvPos x="0.76" y="0.63"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>001_M</nameHash>
+			<txdHash>001</txdHash>
+			<txtHash>001</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.76" y="0.63"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>001_F</nameHash>
+			<txdHash>001</txdHash>
+			<txtHash>001</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.86" y="0.25"/>
+			<scale x="0.07" y="0.07"/>
+			<rotation value="0"/>
+			<nameHash>002_M</nameHash>
+			<txdHash>002</txdHash>
+			<txtHash>002</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.86" y="0.4"/>
+			<scale x="0.07" y="0.05"/>
+			<rotation value="0"/>
+			<nameHash>002_F</nameHash>
+			<txdHash>002</txdHash>
+			<txtHash>002</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.58" y="0.18"/>
+			<scale x="0.08" y="0.05"/>
+			<rotation value="0"/>
+			<nameHash>003_M</nameHash>
+			<txdHash>003</txdHash>
+			<txtHash>003</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.58" y="0.18"/>
+			<scale x="0.08" y="0.05"/>
+			<rotation value="0"/>
+			<nameHash>003_F</nameHash>
+			<txdHash>003</txdHash>
+			<txtHash>003</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.5" y="0.8"/>
+			<scale x="0.2" y="0.2"/>
+			<rotation value="-90"/>
+			<nameHash>006_M</nameHash>
+			<txdHash>006</txdHash>
+			<txtHash>006</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.55" y="0.8"/>
+			<scale x="0.16" y="0.17"/>
+			<rotation value="-90"/>
+			<nameHash>006_F</nameHash>
+			<txdHash>006</txdHash>
+			<txtHash>006</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.4" y="0.72"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>007_M</nameHash>
+			<txdHash>007</txdHash>
+			<txtHash>007</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.4" y="0.72"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>007_F</nameHash>
+			<txdHash>007</txdHash>
+			<txtHash>007</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.36" y="0.7"/>
+			<scale x="0.05" y="0.05"/>
+			<rotation value="-20"/>
+			<nameHash>008_M</nameHash>
+			<txdHash>008</txdHash>
+			<txtHash>008</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.36" y="0.7"/>
+			<scale x="0.05" y="0.05"/>
+			<rotation value="-20"/>
+			<nameHash>008_F</nameHash>
+			<txdHash>008</txdHash>
+			<txtHash>008</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.3" y="0.48"/>
+			<scale x="0.06" y="0.06"/>
+			<rotation value="-70"/>
+			<nameHash>009_M</nameHash>
+			<txdHash>009</txdHash>
+			<txtHash>009</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.3" y="0.48"/>
+			<scale x="0.06" y="0.06"/>
+			<rotation value="-70"/>
+			<nameHash>009_F</nameHash>
+			<txdHash>009</txdHash>
+			<txtHash>009</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.6" y="0.25"/>
+			<scale x="0.04" y="0.04"/>
+			<rotation value="-50"/>
+			<nameHash>011_M</nameHash>
+			<txdHash>011</txdHash>
+			<txtHash>011</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.6" y="0.25"/>
+			<scale x="0.04" y="0.04"/>
+			<rotation value="-50"/>
+			<nameHash>011_F</nameHash>
+			<txdHash>011</txdHash>
+			<txtHash>011</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.99" y="0.24"/>
+			<scale x="0.05" y="0.05"/>
+			<rotation value="-40"/>
+			<nameHash>012_M</nameHash>
+			<txdHash>012</txdHash>
+			<txtHash>012</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.99" y="0.24"/>
+			<scale x="0.05" y="0.05"/>
+			<rotation value="-40"/>
+			<nameHash>012_F</nameHash>
+			<txdHash>012</txdHash>
+			<txtHash>012</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.44"/>
+			<scale x="0.2" y="0.4"/>
+			<rotation value="0"/>
+			<nameHash>013_M</nameHash>
+			<txdHash>013</txdHash>
+			<txtHash>013</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.56"/>
+			<scale x="0.18" y="0.3"/>
+			<rotation value="0"/>
+			<nameHash>013_F</nameHash>
+			<txdHash>013</txdHash>
+			<txtHash>013</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.85" y="0.3"/>
+			<scale x="0.15" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>014_M</nameHash>
+			<txdHash>014</txdHash>
+			<txtHash>014</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.9" y="0.39"/>
+			<scale x="0.09" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>014_F</nameHash>
+			<txdHash>014</txdHash>
+			<txtHash>014</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.55" y="0.45"/>
+			<scale x="0.16" y="0.35"/>
+			<rotation value="0"/>
+			<nameHash>015_M</nameHash>
+			<txdHash>015</txdHash>
+			<txtHash>015</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.55" y="0.45"/>
+			<scale x="0.16" y="0.35"/>
+			<rotation value="0"/>
+			<nameHash>015_F</nameHash>
+			<txdHash>015</txdHash>
+			<txtHash>015</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.25" y="0.3"/>
+			<scale x="0.15" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>016_M</nameHash>
+			<txdHash>016</txdHash>
+			<txtHash>016</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.25" y="0.3"/>
+			<scale x="0.15" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>016_F</nameHash>
+			<txdHash>016</txdHash>
+			<txtHash>016</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.71" y="0.62"/>
+			<scale x="0.16" y="0.16"/>
+			<rotation value="10"/>
+			<nameHash>017_M</nameHash>
+			<txdHash>017</txdHash>
+			<txtHash>017</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.69" y="0.65"/>
+			<scale x="0.14" y="0.14"/>
+			<rotation value="10"/>
+			<nameHash>017_F</nameHash>
+			<txdHash>017</txdHash>
+			<txtHash>017</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.68" y="0.38"/>
+			<scale x="0.17" y="0.17"/>
+			<rotation value="30"/>
+			<nameHash>018_M</nameHash>
+			<txdHash>018</txdHash>
+			<txtHash>018</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.68" y="0.38"/>
+			<scale x="0.1" y="0.09"/>
+			<rotation value="30"/>
+			<nameHash>018_F</nameHash>
+			<txdHash>018</txdHash>
+			<txtHash>018</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.52" y="0.25"/>
+			<scale x="0.05" y="0.1"/>
+			<rotation value="20"/>
+			<nameHash>022_M</nameHash>
+			<txdHash>022</txdHash>
+			<txtHash>022</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.52" y="0.25"/>
+			<scale x="0.05" y="0.1"/>
+			<rotation value="20"/>
+			<nameHash>022_F</nameHash>
+			<txdHash>022</txdHash>
+			<txtHash>022</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.775" y="0.59"/>
+			<scale x="0.19" y="0.19"/>
+			<rotation value="0"/>
+			<nameHash>021_M</nameHash>
+			<txdHash>021</txdHash>
+			<txtHash>021</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.755" y="0.67"/>
+			<scale x="0.17" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>021_F</nameHash>
+			<txdHash>021</txdHash>
+			<txtHash>021</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.84" y="0.5"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="20"/>
+			<nameHash>023_M</nameHash>
+			<txdHash>023</txdHash>
+			<txtHash>023</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.84" y="0.5"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="20"/>
+			<nameHash>023_F</nameHash>
+			<txdHash>023</txdHash>
+			<txtHash>023</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.55" y="0.26"/>
+			<scale x="0.16" y="0.16"/>
+			<rotation value="100"/>
+			<nameHash>024_M</nameHash>
+			<txdHash>024</txdHash>
+			<txtHash>024</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.55" y="0.38"/>
+			<scale x="0.14" y="0.14"/>
+			<rotation value="100"/>
+			<nameHash>024_F</nameHash>
+			<txdHash>024</txdHash>
+			<txtHash>024</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.54" y="0.36"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>025_M</nameHash>
+			<txdHash>025</txdHash>
+			<txtHash>025</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.54" y="0.36"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>025_F</nameHash>
+			<txdHash>025</txdHash>
+			<txtHash>025</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.45" y="0.25"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="-90"/>
+			<nameHash>026_M</nameHash>
+			<txdHash>026</txdHash>
+			<txtHash>026</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.45" y="0.25"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="-90"/>
+			<nameHash>026_F</nameHash>
+			<txdHash>026</txdHash>
+			<txtHash>026</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.55" y="0.32"/>
+			<scale x="0.2" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>027_M</nameHash>
+			<txdHash>027</txdHash>
+			<txtHash>027</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.55" y="0.39"/>
+			<scale x="0.11" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>027_F</nameHash>
+			<txdHash>027</txdHash>
+			<txtHash>027</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.5" y="0.8"/>
+			<scale x="0.15" y="0.22"/>
+			<rotation value="0"/>
+			<nameHash>028_M</nameHash>
+			<txdHash>028</txdHash>
+			<txtHash>028</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.5" y="0.8"/>
+			<scale x="0.15" y="0.22"/>
+			<rotation value="0"/>
+			<nameHash>028_F</nameHash>
+			<txdHash>028</txdHash>
+			<txtHash>028</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.15" y="0.18"/>
+			<rotation value="0"/>
+			<nameHash>029_M</nameHash>
+			<txdHash>029</txdHash>
+			<txtHash>029</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.5" y="0.79"/>
+			<scale x="0.15" y="0.18"/>
+			<rotation value="0"/>
+			<nameHash>029_F</nameHash>
+			<txdHash>029</txdHash>
+			<txtHash>029</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.95" y="0.32"/>
+			<scale x="0.12" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>030_M</nameHash>
+			<txdHash>030</txdHash>
+			<txtHash>030</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.95" y="0.4"/>
+			<scale x="0.08" y="0.11"/>
+			<rotation value="0"/>
+			<nameHash>030_F</nameHash>
+			<txdHash>030</txdHash>
+			<txtHash>030</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.67" y="0.7"/>
+			<scale x="0.05" y="0.05"/>
+			<rotation value="0"/>
+			<nameHash>033_M</nameHash>
+			<txdHash>033</txdHash>
+			<txtHash>033</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.67" y="0.7"/>
+			<scale x="0.05" y="0.05"/>
+			<rotation value="0"/>
+			<nameHash>033_F</nameHash>
+			<txdHash>033</txdHash>
+			<txtHash>033</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.52" y="0.4"/>
+			<scale x="0.04" y="0.04"/>
+			<rotation value="0"/>
+			<nameHash>034_M</nameHash>
+			<txdHash>034</txdHash>
+			<txtHash>034</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.55" y="0.34"/>
+			<scale x="0.04" y="0.04"/>
+			<rotation value="0"/>
+			<nameHash>034_F</nameHash>
+			<txdHash>034</txdHash>
+			<txtHash>034</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.5" y="0.22"/>
+			<scale x="0.06" y="0.05"/>
+			<rotation value="0"/>
+			<nameHash>035_M</nameHash>
+			<txdHash>035</txdHash>
+			<txtHash>035</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.5" y="0.22"/>
+			<scale x="0.06" y="0.05"/>
+			<rotation value="0"/>
+			<nameHash>035_F</nameHash>
+			<txdHash>035</txdHash>
+			<txtHash>035</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.68" y="0.3"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>036_M</nameHash>
+			<txdHash>036</txdHash>
+			<txtHash>036</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.65" y="0.42"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>036_F</nameHash>
+			<txdHash>036</txdHash>
+			<txtHash>036</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.85" y="0.28"/>
+			<scale x="0.2" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>037_M</nameHash>
+			<txdHash>037</txdHash>
+			<txtHash>037</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.8" y="0.38"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>037_F</nameHash>
+			<txdHash>037</txdHash>
+			<txtHash>037</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.73" y="0.28"/>
+			<scale x="0.19" y="0.19"/>
+			<rotation value="0"/>
+			<nameHash>038_M</nameHash>
+			<txdHash>038</txdHash>
+			<txtHash>038</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.73" y="0.33"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>038_F</nameHash>
+			<txdHash>038</txdHash>
+			<txtHash>038</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.9" y="0.3"/>
+			<scale x="0.1" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>039_M</nameHash>
+			<txdHash>039</txdHash>
+			<txtHash>039</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.9" y="0.39"/>
+			<scale x="0.07" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>039_F</nameHash>
+			<txdHash>039</txdHash>
+			<txtHash>039</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.44" y="0.86"/>
+			<scale x="0.05" y="0.09"/>
+			<rotation value="10"/>
+			<nameHash>040_M</nameHash>
+			<txdHash>040</txdHash>
+			<txtHash>040</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.44" y="0.86"/>
+			<scale x="0.05" y="0.09"/>
+			<rotation value="10"/>
+			<nameHash>040_F</nameHash>
+			<txdHash>040</txdHash>
+			<txtHash>040</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.775" y="0.6"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>051_M</nameHash>
+			<txdHash>051</txdHash>
+			<txtHash>051</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.755" y="0.6"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>051_F</nameHash>
+			<txdHash>051</txdHash>
+			<txtHash>051</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.75" y="0.48"/>
+			<scale x="0.05" y="0.05"/>
+			<rotation value="20"/>
+			<nameHash>052_M</nameHash>
+			<txdHash>052</txdHash>
+			<txtHash>052</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.75" y="0.48"/>
+			<scale x="0.05" y="0.05"/>
+			<rotation value="20"/>
+			<nameHash>052_F</nameHash>
+			<txdHash>052</txdHash>
+			<txtHash>052</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.6" y="0.55"/>
+			<scale x="0.04" y="0.04"/>
+			<rotation value="0"/>
+			<nameHash>053_M</nameHash>
+			<txdHash>053</txdHash>
+			<txtHash>053</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.6" y="0.7"/>
+			<scale x="0.04" y="0.04"/>
+			<rotation value="0"/>
+			<nameHash>053_F</nameHash>
+			<txdHash>053</txdHash>
+			<txtHash>053</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.755" y="0.52"/>
+			<scale x="0.25" y="0.25"/>
+			<rotation value="0"/>
+			<nameHash>054_M</nameHash>
+			<txdHash>054</txdHash>
+			<txtHash>054</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.755" y="0.68"/>
+			<scale x="0.25" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>054_F</nameHash>
+			<txdHash>054</txdHash>
+			<txtHash>054</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.15" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>055_M</nameHash>
+			<txdHash>055</txdHash>
+			<txtHash>055</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.15" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>055_F</nameHash>
+			<txdHash>055</txdHash>
+			<txtHash>055</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.74" y="0.49"/>
+			<scale x="0.3" y="0.3"/>
+			<rotation value="10"/>
+			<nameHash>056_M</nameHash>
+			<txdHash>056</txdHash>
+			<txtHash>056</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.74" y="0.64"/>
+			<scale x="0.3" y="0.2"/>
+			<rotation value="10"/>
+			<nameHash>056_F</nameHash>
+			<txdHash>056</txdHash>
+			<txtHash>056</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.55" y="0.43"/>
+			<scale x="0.1" y="0.25"/>
+			<rotation value="-10"/>
+			<nameHash>059_M</nameHash>
+			<txdHash>059</txdHash>
+			<txtHash>059</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.55" y="0.43"/>
+			<scale x="0.1" y="0.25"/>
+			<rotation value="-10"/>
+			<nameHash>059_F</nameHash>
+			<txdHash>059</txdHash>
+			<txtHash>059</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.5" y="0.5"/>
+			<scale x="0.1" y="0.25"/>
+			<rotation value="0"/>
+			<nameHash>060_M</nameHash>
+			<txdHash>060</txdHash>
+			<txtHash>060</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.5" y="0.45"/>
+			<scale x="0.1" y="0.25"/>
+			<rotation value="0"/>
+			<nameHash>060_F</nameHash>
+			<txdHash>060</txdHash>
+			<txtHash>060</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.72" y="0.45"/>
+			<scale x="0.3" y="0.3"/>
+			<rotation value="0"/>
+			<nameHash>061_M</nameHash>
+			<txdHash>061</txdHash>
+			<txtHash>061</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.72" y="0.5"/>
+			<scale x="0.3" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>061_F</nameHash>
+			<txdHash>061</txdHash>
+			<txtHash>061</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.48"/>
+			<scale x="0.25" y="0.3"/>
+			<rotation value="0"/>
+			<nameHash>062_M</nameHash>
+			<txdHash>062</txdHash>
+			<txtHash>062</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.64"/>
+			<scale x="0.25" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>062_F</nameHash>
+			<txdHash>062</txdHash>
+			<txtHash>062</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.48"/>
+			<scale x="0.25" y="0.3"/>
+			<rotation value="0"/>
+			<nameHash>063_M</nameHash>
+			<txdHash>063</txdHash>
+			<txtHash>063</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.65"/>
+			<scale x="0.25" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>063_F</nameHash>
+			<txdHash>063</txdHash>
+			<txtHash>063</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.5" y="0.8"/>
+			<scale x="0.15" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>064_M</nameHash>
+			<txdHash>064</txdHash>
+			<txtHash>064</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.5" y="0.8"/>
+			<scale x="0.15" y="0.2"/>
+			<rotation value="0"/>
+			<nameHash>064_F</nameHash>
+			<txdHash>064</txdHash>
+			<txtHash>064</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.83" y="0.73"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="-30"/>
+			<nameHash>065_M</nameHash>
+			<txdHash>065</txdHash>
+			<txtHash>065</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.83" y="0.73"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="-30"/>
+			<nameHash>065_F</nameHash>
+			<txdHash>065</txdHash>
+			<txtHash>065</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.08" y="0.62"/>
+			<scale x="0.04" y="0.06"/>
+			<rotation value="0"/>
+			<nameHash>066_M</nameHash>
+			<txdHash>066</txdHash>
+			<txtHash>066</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.08" y="0.62"/>
+			<scale x="0.04" y="0.06"/>
+			<rotation value="0"/>
+			<nameHash>066_F</nameHash>
+			<txdHash>066</txdHash>
+			<txtHash>066</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_DONTCARE</gender>
+		</Item>
+	</presets>
+	<nameHash>rcore_overlays_animals</nameHash>
+</PedDecorationCollection>

@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PedDecorationCollection>
+	<bRequiredForSync value="true"/>
+	<presets>
+		<Item>
+			<uvPos x="0.85" y="0.28"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_bottle1_M</nameHash>
+			<txdHash>os_bottle1</txdHash>
+			<txtHash>os_bottle1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.85" y="0.37"/>
+			<scale x="0.14" y="0.14"/>
+			<rotation value="0"/>
+			<nameHash>os_bottle1_F</nameHash>
+			<txdHash>os_bottle1</txdHash>
+			<txtHash>os_bottle1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.85" y="0.62"/>
+			<scale x="0.1" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_candle1_M</nameHash>
+			<txdHash>os_candle1</txdHash>
+			<txtHash>os_candle1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.85" y="0.62"/>
+			<scale x="0.1" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_candle1_F</nameHash>
+			<txdHash>os_candle1</txdHash>
+			<txtHash>os_candle1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.97" y="0.32"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_dagger1_M</nameHash>
+			<txdHash>os_dagger1</txdHash>
+			<txtHash>os_dagger1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.99" y="0.45"/>
+			<scale x="0.14" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_dagger1_F</nameHash>
+			<txdHash>os_dagger1</txdHash>
+			<txtHash>os_dagger1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.82" y="0.25"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_devil1_M</nameHash>
+			<txdHash>os_devil1</txdHash>
+			<txtHash>os_devil1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.82" y="0.32"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_devil1_F</nameHash>
+			<txdHash>os_devil1</txdHash>
+			<txtHash>os_devil1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.68" y="0.59"/>
+			<scale x="0.10" y="0.10"/>
+			<rotation value="0"/>
+			<nameHash>os_eagle1_M</nameHash>
+			<txdHash>os_eagle1</txdHash>
+			<txtHash>os_eagle1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.68" y="0.65"/>
+			<scale x="0.12" y="0.10"/>
+			<rotation value="0"/>
+			<nameHash>os_eagle1_F</nameHash>
+			<txdHash>os_eagle1</txdHash>
+			<txtHash>os_eagle1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.80" y="0.60"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_flower1_M</nameHash>
+			<txdHash>os_flower1</txdHash>
+			<txtHash>os_flower1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.80" y="0.65"/>
+			<scale x="0.13" y="0.1"/>
+			<rotation value="20"/>
+			<nameHash>os_flower1_F</nameHash>
+			<txdHash>os_flower1</txdHash>
+			<txtHash>os_flower1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.22" y="0.58"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_globe1_M</nameHash>
+			<txdHash>os_globe1</txdHash>
+			<txtHash>os_globe1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.245" y="0.63"/>
+			<scale x="0.16" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_globe1_F</nameHash>
+			<txdHash>os_globe1</txdHash>
+			<txtHash>os_globe1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.82" y="0.30"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_hands1_M</nameHash>
+			<txdHash>os_hands1</txdHash>
+			<txtHash>os_hands1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.82" y="0.36"/>
+			<scale x="0.15" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_hands1_F</nameHash>
+			<txdHash>os_hands1</txdHash>
+			<txtHash>os_hands1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.55" y="0.26"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_magic1_M</nameHash>
+			<txdHash>os_magic1</txdHash>
+			<txtHash>os_magic1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.65" y="0.4"/>
+			<scale x="0.12" y="0.11"/>
+			<rotation value="0"/>
+			<nameHash>os_magic1_F</nameHash>
+			<txdHash>os_magic1</txdHash>
+			<txtHash>os_magic1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.64" y="0.25"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_money1_M</nameHash>
+			<txdHash>os_money1</txdHash>
+			<txtHash>os_money1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.64" y="0.37"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_money1_F</nameHash>
+			<txdHash>os_money1</txdHash>
+			<txtHash>os_money1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.82" y="0.62"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_pistol1_M</nameHash>
+			<txdHash>os_pistol1</txdHash>
+			<txtHash>os_pistol1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.81" y="0.68"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_pistol1_F</nameHash>
+			<txdHash>os_pistol1</txdHash>
+			<txtHash>os_pistol1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.62"/>
+			<scale x="0.15" y="0.25"/>
+			<rotation value="0"/>
+			<nameHash>os_red_diamond1_M</nameHash>
+			<txdHash>os_red_diamond1</txdHash>
+			<txtHash>os_red_diamond1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.62"/>
+			<scale x="0.15" y="0.25"/>
+			<rotation value="0"/>
+			<nameHash>os_red_diamond1_F</nameHash>
+			<txdHash>os_red_diamond1</txdHash>
+			<txtHash>os_red_diamond1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.66" y="0.58"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_rose1_M</nameHash>
+			<txdHash>os_rose1</txdHash>
+			<txtHash>os_rose1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.72" y="0.62"/>
+			<scale x="0.14" y="0.14"/>
+			<rotation value="0"/>
+			<nameHash>os_rose1_F</nameHash>
+			<txdHash>os_rose1</txdHash>
+			<txtHash>os_rose1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.58"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_sunset1_M</nameHash>
+			<txdHash>os_sunset1</txdHash>
+			<txtHash>os_sunset1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.76" y="0.62"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_sunset1_F</nameHash>
+			<txdHash>os_sunset1</txdHash>
+			<txtHash>os_sunset1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.62" y="0.25"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_treasure1_M</nameHash>
+			<txdHash>os_treasure1</txdHash>
+			<txtHash>os_treasure1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.62" y="0.37"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_treasure1_F</nameHash>
+			<txdHash>os_treasure1</txdHash>
+			<txtHash>os_treasure1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.63" y="0.40"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_blue_diamond1_M</nameHash>
+			<txdHash>os_blue_diamond1</txdHash>
+			<txtHash>os_blue_diamond1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.63" y="0.40"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_blue_diamond1_F</nameHash>
+			<txdHash>os_blue_diamond1</txdHash>
+			<txtHash>os_blue_diamond1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.63" y="0.23"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_bomb1_M</nameHash>
+			<txdHash>os_bomb1</txdHash>
+			<txtHash>os_bomb1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.63" y="0.37"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_bomb1_F</nameHash>
+			<txdHash>os_bomb1</txdHash>
+			<txtHash>os_bomb1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_bottle2_M</nameHash>
+			<txdHash>os_bottle2</txdHash>
+			<txtHash>os_bottle2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.13" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_bottle2_F</nameHash>
+			<txdHash>os_bottle2</txdHash>
+			<txtHash>os_bottle2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_dagger2_M</nameHash>
+			<txdHash>os_dagger2</txdHash>
+			<txtHash>os_dagger2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_dagger2_F</nameHash>
+			<txdHash>os_dagger2</txdHash>
+			<txtHash>os_dagger2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_devil2_M</nameHash>
+			<txdHash>os_devil2</txdHash>
+			<txtHash>os_devil2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_devil2_F</nameHash>
+			<txdHash>os_devil2</txdHash>
+			<txtHash>os_devil2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.75"/>
+			<scale x="0.10" y="0.10"/>
+			<rotation value="0"/>
+			<nameHash>os_flower2_M</nameHash>
+			<txdHash>os_flower2</txdHash>
+			<txtHash>os_flower2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.75"/>
+			<scale x="0.10" y="0.10"/>
+			<rotation value="0"/>
+			<nameHash>os_flower2_F</nameHash>
+			<txdHash>os_flower2</txdHash>
+			<txtHash>os_flower2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_hands2_M</nameHash>
+			<txdHash>os_hands2</txdHash>
+			<txtHash>os_hands2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_hands2_F</nameHash>
+			<txdHash>os_hands2</txdHash>
+			<txtHash>os_hands2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.08" y="0.08"/>
+			<rotation value="0"/>
+			<nameHash>os_money2_M</nameHash>
+			<txdHash>os_money2</txdHash>
+			<txtHash>os_money2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.08" y="0.08"/>
+			<rotation value="0"/>
+			<nameHash>os_money2_F</nameHash>
+			<txdHash>os_money2</txdHash>
+			<txtHash>os_money2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_rose2_M</nameHash>
+			<txdHash>os_rose2</txdHash>
+			<txtHash>os_rose2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_rose2_F</nameHash>
+			<txdHash>os_rose2</txdHash>
+			<txtHash>os_rose2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_bottle3_M</nameHash>
+			<txdHash>os_bottle3</txdHash>
+			<txtHash>os_bottle3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.13" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_bottle3_F</nameHash>
+			<txdHash>os_bottle3</txdHash>
+			<txtHash>os_bottle3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.08" y="0.08"/>
+			<rotation value="0"/>
+			<nameHash>os_money3_M</nameHash>
+			<txdHash>os_money3</txdHash>
+			<txtHash>os_money3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.08" y="0.08"/>
+			<rotation value="0"/>
+			<nameHash>os_money3_F</nameHash>
+			<txdHash>os_money3</txdHash>
+			<txtHash>os_money3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_dagger3_M</nameHash>
+			<txdHash>os_dagger3</txdHash>
+			<txtHash>os_dagger3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_dagger3_F</nameHash>
+			<txdHash>os_dagger3</txdHash>
+			<txtHash>os_dagger3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_devil3_M</nameHash>
+			<txdHash>os_devil3</txdHash>
+			<txtHash>os_devil3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_devil3_F</nameHash>
+			<txdHash>os_devil3</txdHash>
+			<txtHash>os_devil3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_flower3_M</nameHash>
+			<txdHash>os_flower3</txdHash>
+			<txtHash>os_flower3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_flower3_F</nameHash>
+			<txdHash>os_flower3</txdHash>
+			<txtHash>os_flower3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_hands3_M</nameHash>
+			<txdHash>os_hands3</txdHash>
+			<txtHash>os_hands3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_hands3_F</nameHash>
+			<txdHash>os_hands3</txdHash>
+			<txtHash>os_hands3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_rose3_M</nameHash>
+			<txdHash>os_rose3</txdHash>
+			<txtHash>os_rose3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_rose3_F</nameHash>
+			<txdHash>os_rose3</txdHash>
+			<txtHash>os_rose3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.50" y="0.67"/>
+			<scale x="0.13" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_blue_diamond4_M</nameHash>
+			<txdHash>os_blue_diamond4</txdHash>
+			<txtHash>os_blue_diamond4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.50" y="0.67"/>
+			<scale x="0.13" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_blue_diamond4_F</nameHash>
+			<txdHash>os_blue_diamond4</txdHash>
+			<txtHash>os_blue_diamond4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.50" y="0.69"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_bomb4_M</nameHash>
+			<txdHash>os_bomb4</txdHash>
+			<txtHash>os_bomb4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.50" y="0.72"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_bomb4_F</nameHash>
+			<txdHash>os_bomb4</txdHash>
+			<txtHash>os_bomb4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.225" y="0.33"/>
+			<scale x="0.15" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_flower4_M</nameHash>
+			<txdHash>os_flower4</txdHash>
+			<txtHash>os_flower4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.225" y="0.33"/>
+			<scale x="0.15" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_flower4_F</nameHash>
+			<txdHash>os_flower4</txdHash>
+			<txtHash>os_flower4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.70"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_magic4_M</nameHash>
+			<txdHash>os_magic4</txdHash>
+			<txtHash>os_magic4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.72"/>
+			<scale x="0.12" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>os_magic4_F</nameHash>
+			<txdHash>os_magic4</txdHash>
+			<txtHash>os_magic4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.225" y="0.33"/>
+			<scale x="0.17" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_rose4_M</nameHash>
+			<txdHash>os_rose4</txdHash>
+			<txtHash>os_rose4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.225" y="0.33"/>
+			<scale x="0.17" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_rose4_F</nameHash>
+			<txdHash>os_rose4</txdHash>
+			<txtHash>os_rose4</txtHash>
+			<zone>ZONE_LEFT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.92" y="0.67"/>
+			<scale x="0.08" y="0.10"/>
+			<rotation value="0"/>
+			<nameHash>os_bluediamond5_M</nameHash>
+			<txdHash>os_bluediamond5</txdHash>
+			<txtHash>os_bluediamond5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.92" y="0.67"/>
+			<scale x="0.08" y="0.10"/>
+			<rotation value="0"/>
+			<nameHash>os_bluediamond5_F</nameHash>
+			<txdHash>os_bluediamond5</txdHash>
+			<txtHash>os_bluediamond5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.44" y="0.70"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_bomb5_M</nameHash>
+			<txdHash>os_bomb5</txdHash>
+			<txtHash>os_bomb5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.44" y="0.74"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_bomb5_F</nameHash>
+			<txdHash>os_bomb5</txdHash>
+			<txtHash>os_bomb5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.225" y="0.36"/>
+			<scale x="0.1" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>oscandle5_M</nameHash>
+			<txdHash>oscandle5</txdHash>
+			<txtHash>oscandle5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.225" y="0.36"/>
+			<scale x="0.1" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>oscandle5_F</nameHash>
+			<txdHash>oscandle5</txdHash>
+			<txtHash>oscandle5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.22" y="0.35"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_flower5_M</nameHash>
+			<txdHash>os_flower5</txdHash>
+			<txtHash>os_flower5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.22" y="0.35"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_flower5_F</nameHash>
+			<txdHash>os_flower5</txdHash>
+			<txtHash>os_flower5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.6" y="0.67"/>
+			<scale x="0.07" y="0.07"/>
+			<rotation value="0"/>
+			<nameHash>os_money5_M</nameHash>
+			<txdHash>os_money5</txdHash>
+			<txtHash>os_money5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.6" y="0.67"/>
+			<scale x="0.07" y="0.07"/>
+			<rotation value="0"/>
+			<nameHash>os_money5_F</nameHash>
+			<txdHash>os_money5</txdHash>
+			<txtHash>os_money5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.5" y="0.70"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_rose_flower_M</nameHash>
+			<txdHash>os_rose_flower</txdHash>
+			<txtHash>os_rose_flower</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.5" y="0.73"/>
+			<scale x="0.15" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>os_rose_flower_F</nameHash>
+			<txdHash>os_rose_flower</txdHash>
+			<txtHash>os_rose_flower</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.225" y="0.30"/>
+			<scale x="0.17" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>os_rose5_M</nameHash>
+			<txdHash>os_rose5</txdHash>
+			<txtHash>os_rose5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.225" y="0.30"/>
+			<scale x="0.19" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>os_rose5_F</nameHash>
+			<txdHash>os_rose5</txdHash>
+			<txtHash>os_rose5</txtHash>
+			<zone>ZONE_RIGHT_LEG</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.27" y="0.7"/>
+			<scale x="0.15" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>osluediamond6_M</nameHash>
+			<txdHash>osluediamond6</txdHash>
+			<txtHash>osluediamond6</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.27" y="0.7"/>
+			<scale x="0.15" y="0.12"/>
+			<rotation value="0"/>
+			<nameHash>osluediamond6_F</nameHash>
+			<txdHash>osluediamond6</txdHash>
+			<txtHash>osluediamond6</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.27" y="0.7"/>
+			<scale x="0.08" y="0.08"/>
+			<rotation value="0"/>
+			<nameHash>os_money6_M</nameHash>
+			<txdHash>os_money6</txdHash>
+			<txtHash>os_money6</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.27" y="0.7"/>
+			<scale x="0.08" y="0.08"/>
+			<rotation value="0"/>
+			<nameHash>os_money6_F</nameHash>
+			<txdHash>os_money6</txdHash>
+			<txtHash>os_money6</txtHash>
+			<zone>ZONE_HEAD</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.58"/>
+			<scale x="0.17" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>os_flower7_M</nameHash>
+			<txdHash>os_flower7</txdHash>
+			<txtHash>os_flower7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.65"/>
+			<scale x="0.17" y="0.14"/>
+			<rotation value="0"/>
+			<nameHash>os_flower7_F</nameHash>
+			<txdHash>os_flower7</txdHash>
+			<txtHash>os_flower7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.58"/>
+			<scale x="0.22" y="0.22"/>
+			<rotation value="0"/>
+			<nameHash>os_eagle7_M</nameHash>
+			<txdHash>os_eagle7</txdHash>
+			<txtHash>os_eagle7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.77" y="0.65"/>
+			<scale x="0.20" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>os_eagle7_F</nameHash>
+			<txdHash>os_eagle7</txdHash>
+			<txtHash>os_eagle7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.73" y="0.62"/>
+			<scale x="0.17" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>os_bomb7_M</nameHash>
+			<txdHash>os_bomb7</txdHash>
+			<txtHash>os_bomb7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.72" y="0.66"/>
+			<scale x="0.17" y="0.17"/>
+			<rotation value="0"/>
+			<nameHash>os_bomb7_F</nameHash>
+			<txdHash>os_bomb7</txdHash>
+			<txtHash>os_bomb7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.85" y="0.58"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>old_rose7_M</nameHash>
+			<txdHash>old_rose7</txdHash>
+			<txtHash>old_rose7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.83" y="0.64"/>
+			<scale x="0.17" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>old_rose7_F</nameHash>
+			<txdHash>old_rose7</txdHash>
+			<txtHash>old_rose7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.68" y="0.3"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_dagger7_M</nameHash>
+			<txdHash>os_dagger7</txdHash>
+			<txtHash>os_dagger7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.65" y="0.44"/>
+			<scale x="0.16" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_dagger7_F</nameHash>
+			<txdHash>os_dagger7</txdHash>
+			<txtHash>os_dagger7</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.64" y="0.62"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_anchor1_M</nameHash>
+			<txdHash>os_anchor1</txdHash>
+			<txtHash>os_anchor1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.66" y="0.65"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_anchor1_F</nameHash>
+			<txdHash>os_anchor1</txdHash>
+			<txtHash>os_anchor1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.68" y="0.25"/>
+			<scale x="0.13" y="0.10"/>
+			<rotation value="0"/>
+			<nameHash>os_bird1_M</nameHash>
+			<txdHash>os_bird1</txdHash>
+			<txtHash>os_bird1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.68" y="0.40"/>
+			<scale x="0.13" y="0.10"/>
+			<rotation value="0"/>
+			<nameHash>os_bird1_F</nameHash>
+			<txdHash>os_bird1</txdHash>
+			<txtHash>os_bird1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.80" y="0.60"/>
+			<scale x="0.17" y="0.25"/>
+			<rotation value="0"/>
+			<nameHash>os_hurt1_M</nameHash>
+			<txdHash>os_hurt1</txdHash>
+			<txtHash>os_hurt1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.80" y="0.65"/>
+			<scale x="0.15" y="0.20"/>
+			<rotation value="0"/>
+			<nameHash>os_hurt1_F</nameHash>
+			<txdHash>os_hurt1</txdHash>
+			<txtHash>os_hurt1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.72" y="0.62"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_love1_M</nameHash>
+			<txdHash>os_love1</txdHash>
+			<txtHash>os_love1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.70" y="0.66"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_love1_F</nameHash>
+			<txdHash>os_love1</txdHash>
+			<txtHash>os_love1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.64" y="0.25"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_luck1_M</nameHash>
+			<txdHash>os_luck1</txdHash>
+			<txtHash>os_luck1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.64" y="0.32"/>
+			<scale x="0.13" y="0.11"/>
+			<rotation value="0"/>
+			<nameHash>os_luck1_F</nameHash>
+			<txdHash>os_luck1</txdHash>
+			<txtHash>os_luck1</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.80" y="0.62"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_lucky_bird_M</nameHash>
+			<txdHash>os_lucky_bird</txdHash>
+			<txtHash>os_lucky_bird</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.80" y="0.70"/>
+			<scale x="0.15" y="0.15"/>
+			<rotation value="0"/>
+			<nameHash>os_lucky_bird_F</nameHash>
+			<txdHash>os_lucky_bird</txdHash>
+			<txtHash>os_lucky_bird</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.765" y="0.58"/>
+			<scale x="0.2" y="0.3"/>
+			<rotation value="0"/>
+			<nameHash>os_rock_and_roll_M</nameHash>
+			<txdHash>os_rock_and_roll</txdHash>
+			<txtHash>os_rock_and_roll</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="-0.76" y="0.62"/>
+			<scale x="0.2" y="0.3"/>
+			<rotation value="0"/>
+			<nameHash>os_rock_and_roll_F</nameHash>
+			<txdHash>os_rock_and_roll</txdHash>
+			<txtHash>os_rock_and_roll</txtHash>
+			<zone>ZONE_TORSO</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_anchor2_M</nameHash>
+			<txdHash>os_anchor2</txdHash>
+			<txtHash>os_anchor2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_anchor2_F</nameHash>
+			<txdHash>os_anchor2</txdHash>
+			<txtHash>os_anchor2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.79"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_anchor3_M</nameHash>
+			<txdHash>os_anchor3</txdHash>
+			<txtHash>os_anchor3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.1" y="0.1"/>
+			<rotation value="0"/>
+			<nameHash>os_anchor3_F</nameHash>
+			<txdHash>os_anchor3</txdHash>
+			<txtHash>os_anchor3</txtHash>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.77"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_rose_flower2_M</nameHash>
+			<txdHash>os_rose_flower2</txdHash>
+			<txtHash>os_rose_flower2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_MALE</gender>
+		</Item>
+		<Item>
+			<uvPos x="0.45" y="0.82"/>
+			<scale x="0.13" y="0.13"/>
+			<rotation value="0"/>
+			<nameHash>os_rose_flower2_F</nameHash>
+			<txdHash>os_rose_flower2</txdHash>
+			<txtHash>os_rose_flower2</txtHash>
+			<zone>ZONE_LEFT_ARM</zone>
+			<type>TYPE_TATTOO</type>
+			<faction>FM_F</faction>
+			<garment>ALL</garment>
+			<gender>GENDER_FEMALE</gender>
+		</Item>
+	</presets>
+	<nameHash>rcore_overlays_oldschool</nameHash>
+</PedDecorationCollection>
